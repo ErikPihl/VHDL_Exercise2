@@ -25,7 +25,7 @@ architecture Behaviour of Exercise2 is
 begin
  
    ---------------------------------------------------------------------------------
-   -- Tilldelar utsignalerna i enligthet med ovanstående sanningstabell via
+   -- Tilldelar utsignalerna i enlighet med ovanstående sanningstabell via
    -- implementering av if-else satser.
    ---------------------------------------------------------------------------------
    process (switch) is
